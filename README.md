@@ -11,6 +11,11 @@ The script:
 “InContext” to free a slot.
 - Assigns the configured category to the entry.
 
+## Requirements
+
+- Node.js 18+ recommended
+- A Kaltura account with admin credentials and API access
+
 ## Setup
 
 1. Clone and install
