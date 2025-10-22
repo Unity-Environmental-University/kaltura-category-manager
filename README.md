@@ -36,8 +36,7 @@ The script:
 Set these variables in .env:
 
 - ADMIN_SECRET: Kaltura admin secret used to start a KS.
-- USER_ID: User ID used when starting the session. With TYPE=2 (admin), this is
-often the admin or a specific user to impersonate.
+- USER_ID: Find your Kaltura user ID on the KMC Administration page and use this ID when starting the session.
 - TYPE: Session type. Use 2 for admin sessions.
 - PARTNER_ID: Numeric Kaltura partner ID.
 - EXPIRY: Session expiry in seconds.
